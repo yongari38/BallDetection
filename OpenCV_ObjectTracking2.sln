@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCV_ObjectTracking2", "OpenCV_ObjectTracking2\OpenCV_ObjectTracking2.vcxproj", "{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}.Debug|x64.ActiveCfg = Debug|x64
+		{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}.Debug|x64.Build.0 = Debug|x64
+		{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}.Debug|x86.Build.0 = Debug|Win32
+		{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}.Release|x64.ActiveCfg = Release|x64
+		{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}.Release|x64.Build.0 = Release|x64
+		{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}.Release|x86.ActiveCfg = Release|Win32
+		{A06DB4F5-5D2E-4440-835B-ECE6C8BAF1BE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9453F711-764C-49C1-9A6E-AE898FE48383}
+	EndGlobalSection
+EndGlobal
