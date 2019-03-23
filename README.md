@@ -1,7 +1,7 @@
 # BallDetection
 Tennis Ball detection via HSV boundaries
 ### Overview
-Project submitted to AI Hackathon (http://www.e2festa.kr/event01.asp)
+Project submitted to AI Hackathon (http://www.e2festa.kr/event01.asp){: width="100" height="100"}
 ![AI Hackathon](./image/Capture.PNG)
 Our goal was to load a Public WiFi router on a drone, and implement computer vision technology to let the drone find the best fit place to service Public WiFi. Through providing flexible distribution of Public WiFi, we seek to improve the poor Public WiFi performance in concentrated regions(e.g. outdoor concert, city plaza and so on).
 ### Usage
